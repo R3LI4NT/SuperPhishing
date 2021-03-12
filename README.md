@@ -1,4 +1,4 @@
-![Info](https://img.shields.io/badge/CREADOR-R3LI4NT-red?style=flat-square&logo=appveyor) ![Info](https://img.shields.io/badge/Lenguage-Python-orange)
+![Infso](https://img.shields.io/badge/CREADOR-R3LI4NT-red?style=flat-square&logo=appveyor) ![Info](https://img.shields.io/badge/Lenguage-Python-orange)
 ![superphishing](https://user-images.githubusercontent.com/75953873/110724958-7e3f9980-81f5-11eb-817f-723ff0771d71.png)
 
 
