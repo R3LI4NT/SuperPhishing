@@ -1,4 +1,4 @@
-![Infso](https://img.shields.io/badge/CREADOR-R3LI4NT-red) ![Info](https://img.shields.io/badge/Lenguage-Python-orange)
+![Infso](https://img.shields.io/badge/CREADOR-R3LI4NT-red) ![Info](https://img.shields.io/badge/Lenguage-Python-orange/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fyouranonnews%3Flang%3Des)
 ![superphishing](https://user-images.githubusercontent.com/75953873/110724958-7e3f9980-81f5-11eb-817f-723ff0771d71.png)
 
 
